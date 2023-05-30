@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tieu Long Phan"
+title                    : "Van Thinh To"
 title_separator          : "-"
-name                     : &name "Tieu Long Phan"
+name                     : &name "Van Thinh To"
 description              : &description "personal description"
 url                      : https://TieuLongPhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
