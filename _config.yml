@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Van Thinh To"
   avatar           : "thinh.jpeg"
-  bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
+  bio              : "Undergratute in Pharmacy; Interest in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Ho Chi Minh city"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ptlong8995@gmail.com"
+  email            : "tvthinhd19@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TieuLongPhan"
+  github           : "ThinhUMP"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tieu-long-phan-b225331a5/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3532-2064"
+  linkedin         : "https://www.linkedin.com/in/thinhtovan/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7640-0807"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
