@@ -27,11 +27,12 @@ Work experience
     * [*HIV-1 integrase*](https://tieulongphan.github.io/project/2022-11-1-thesis/) (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
     * [*ALK*](https://tieulongphan.github.io/project/2023-05-01-ALK-GNN/): ANN model development, 3D-Image-QSAR using CNN with  6 times rotation, GNN with pytorch geometric
     
-  * Duties included:
+  * **Duties included:**
     *  Experienced *in silico* techniques by collaborating in lab seminars and academic projects.
     *  Collaborated with labmates to conduct 2D-QSAR utilizing MOE software to screen anticancer bioactivities of some isothiocyanate derivate.-->
-* Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen) -->
-              [**MS. in Pharmacy. Phan Tieu Long**](https://tieulongphan.github.io/)
+* Supervisor: 
+  * [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
+  * [**MS. in Pharmacy. Phan Tieu Long**](https://tieulongphan.github.io/)
 
 Skills
 ======
