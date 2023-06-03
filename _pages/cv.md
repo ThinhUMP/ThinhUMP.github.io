@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2016-2019: Baccalaureate, [Le Quy Don High school for the gifted students](https://www.facebook.com/lequydonbinhdinh).
-* 2019-2024: B.S. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city.
+* 2019-2024: B.S. in Pharmacy, [University of Medicine and Pharmacy at Ho Chi Minh city.](https://ump.edu.vn/)
 
 Work experience
 ======
