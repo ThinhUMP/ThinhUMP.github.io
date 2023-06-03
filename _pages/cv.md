@@ -30,7 +30,7 @@ Work experience
   * **Duties included:**
     *  Experienced *in silico* techniques by collaborating in lab seminars and academic projects.
     *  Collaborated with labmates to conduct 2D-QSAR utilizing MOE software to screen anticancer bioactivities of some isothiocyanate derivate.-->
-* Supervisor: 
+* **Supervisor:** 
   * [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
   * [**MS. in Pharmacy. Phan Tieu Long**](https://tieulongphan.github.io/)
 
